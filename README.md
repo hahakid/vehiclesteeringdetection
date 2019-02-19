@@ -39,6 +39,7 @@
 - Android Application
 - [开源项目: VEHICLE STEERING DETECTOR](https://github.com/ouyangkid/vehiclesteeringdetection)
 - 智能终端
+- ITON智能后视镜
 
 ## 数据集
 | No. | Date | Size | Download |
