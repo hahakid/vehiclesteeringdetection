@@ -81,5 +81,44 @@
 
 ## 实验结果
 
+### 大数据
+
+数据规模大，可以发现事物内部的联系
+
+![PIC](./doc/data/experiment/bigdata.png)
+
+### 采集坐标系
+
+表明手机和传感器方向
+
+![PIC](./doc/data/experiment/coord.png)
+
+### 网络
+
+网络部署
+
+![PIC](./doc/data/experiment/network.png)
+
+### 结构
+
+系统架构
+
+![PIC](./doc/data/experiment/systemstructure.jpg)
+
+### 准确率
+
+实验准确率
+
+![PIC](./doc/data/experiment/top.jpg)
+
+### UI
+
+系统的UI Design
+
+![PIC](./doc/data/experiment/ui.png)
+
 ## 应用下载
 
+[Android客户端下载](http://github.com)
+
+暂不支持IOS环境，敬请期待
