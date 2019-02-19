@@ -39,7 +39,7 @@
 ### 产品
 
 - Android Application
-- 介绍Web
+- [开源项目: VEHICLE STEERING DETECTOR](https://github.com/ouyangkid/vehiclesteeringdetection)
 - 智能终端
 
 ## 数据集
