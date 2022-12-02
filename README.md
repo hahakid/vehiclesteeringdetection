@@ -1,6 +1,6 @@
 # VEHICLE STEERING DETECTOR
 
-## 实时分析驾驶行为
+## 实时分析驾驶行为(*项目结题使用)
 
 有调查显示，交通事故往往是由驾驶员危险驾驶行为所引起的，及时检测这些行为并进行预警对于避免交通事故至关重要。车载诊断系统OBD(On-Board Diagnostic)和高级驾驶辅助系统ADAS(Advanced Driver Assistant System)造价昂贵，因此通常不适用于大众车型。随着智能设备的发展，智能手机的快速发展和强大的内置传感器是解决此问题的新途径。
 
@@ -29,9 +29,8 @@
 
 ### 学术转化
 
-- 会议论文: IEEE ICC2016
-- 会议论文: IEEE ISPA2017
-- 期刊论文:《华科学报自然版》
+- 会议论文: IEEE ICC2016, IEEE ISPA2017
+- 期刊论文:《华科学报自然版》, IEEE TMC, IEEE TITS
 - 专利3项
 
 ### 产品
